@@ -1,0 +1,3 @@
+*setup postgresql with django
+*undestand volume
+*apply volume to postgresql 
